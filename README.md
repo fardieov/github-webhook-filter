@@ -1,4 +1,4 @@
-# github-webhook-filter
+w# github-webhook-filter
 
 A webhook filter for [Deno](https://deno.land/) that filters GitHub events before forwarding them to
 a Discord webhook, reducing noise.\
@@ -33,3 +33,4 @@ Additional options can be configured per URL:
 - Ignore tag updates (`hideTags`)
 - Ignore burst PR review comments in a short timespan, only showing the first x comments
   (`commentBurstLimit`)
+!
